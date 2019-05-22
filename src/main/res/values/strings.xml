@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="ss">请输入摄氏度</string>
+    <string name="bbb">转换为华氏温度</string>
+    <string name="txtout">结果为：</string>
+    <string name="f">f</string>
+    <string name="lable_add3">+3 points</string>
+    <string name="lable_add2">+2 points</string>
+    <string name="lable_add1">+1 point</string>
+    <string name="btn_reset_lable">Reset</string>
+    <string name="teama">TeamA</string>
+    <string name="_0">0</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="btn_opencfg_lable">config</string>
+    <string name="btn_save_lable">Save</string>
+    <string name="menu_set_lable">Setting</string>
+    <string name="label_open_list">OpenList</string>
+</resources>
